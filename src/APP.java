@@ -30,5 +30,9 @@ public class App {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
+   }
+public void play(){
+System.out.println("我是kuangchi1000,我修改了APP.java");
+
+}
 }
